@@ -1,0 +1,1 @@
+running ether.js script must result the signing of transaction via metamask prompt?
